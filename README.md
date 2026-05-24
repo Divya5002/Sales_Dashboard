@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-This is a beginner-friendly Sales Dashboard project using **Power BI** and Excel.
+This is a beginner-friendly Sales Dashboard project using **Power BI** and **Excel**.
 
 ## 📁 Files Included
 - `sales_data.xlsx` → Sample sales dataset
